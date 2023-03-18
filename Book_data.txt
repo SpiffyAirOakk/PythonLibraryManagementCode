@@ -1,0 +1,51 @@
+id	Genre	Title	Author	Purchase_Price	Purchase_Date
+1	Horror	Three 	Idette Courtese	94.6	04/12/2020
+2	Horror	Three 	Idette Courtese	94.6	04/12/2020
+3	Horror	Three 	Idette Courtese	94.6	04/12/2020
+4	Horror	Three 	Idette Courtese	94.6	04/12/2020
+5	Horror	Three 	Idette Courtese	94.6	04/12/2020
+6	Romance	Bachelor Mother	Christal Langfitt	44.3	11/02/2020
+7	Romance	Bachelor Mother	Christal Langfitt	44.3	11/02/2020
+8	Romance	Bachelor Mother	Christal Langfitt	44.3	11/02/2020
+9	Romance	Bachelor Mother	Christal Langfitt	44.3	11/02/2020
+10	Romance	Bachelor Mother	Christal Langfitt	44.3	11/02/2020
+11	Romance	Bachelor Mother	Christal Langfitt	44.3	11/02/2020
+12	Romance	Bachelor Mother	Christal Langfitt	44.3	11/02/2020
+13	Drama	Town Without Pity	Edin Pochet	35.5	5/28/2021
+14	Drama	Town Without Pity	Edin Pochet	35.5	5/28/2021
+15	Drama	Town Without Pity	Edin Pochet	35.5	5/28/2021
+16	Comedy	Once Bitten	Jessy Boanas	74.8	12/30/2021
+17	Comedy	Once Bitten	Jessy Boanas	74.8	12/30/2021
+18	Comedy	Once Bitten	Jessy Boanas	74.8	12/30/2021
+19	Comedy	Once Bitten	Jessy Boanas	74.8	12/30/2021
+20	Comedy	Once Bitten	Jessy Boanas	74.8	12/30/2021
+21	Comedy	Once Bitten	Jessy Boanas	74.8	12/30/2021
+22	Drama	Valmont	Denyse Letson	94	02/07/2021
+23	Drama	Valmont	Denyse Letson	94	02/07/2021
+24	Drama	Valmont	Denyse Letson	94	02/07/2021
+25	Drama	Valmont	Denyse Letson	94	02/07/2021
+26	Drama	Valmont	Denyse Letson	94	02/07/2021
+27	Drama	Valmont	Denyse Letson	94	02/07/2021
+28	Novel	Harry Potter: Half Blood Prince	JK Rowling	30	5/16/2020
+29	Novel	Harry Potter: Half Blood Prince	JK Rowling	30	5/16/2020
+30	Novel	Harry Potter: Half Blood Prince	JK Rowling	30	5/16/2020
+31	Novel	Harry Potter: Half Blood Prince	JK Rowling	30	5/16/2020
+32	Children	Stormheart	Orland Acland	29.9	4/15/2021
+33	Children	Stormheart	Orland Acland	29.9	4/15/2021
+34	Children	Stormheart	Orland Acland	29.9	4/15/2021
+35	Children	Stormheart	Orland Acland	29.9	4/15/2021
+36	Children	Stormheart	Orland Acland	29.9	4/15/2021
+37	Fiction	Only Yesterday 	Ulrikaumeko Gueinn	30.7	8/27/2020
+38	Fiction	Only Yesterday 	Ulrikaumeko Gueinn	30.7	8/27/2020
+39	Fiction	Only Yesterday 	Ulrikaumeko Gueinn	30.7	8/27/2020
+40	Fiction	Only Yesterday 	Ulrikaumeko Gueinn	30.7	8/27/2020
+41	Politics	Political Order and Political Decay	Francis Fukuyama	40	10/30/2021
+42	Politics	Political Order and Political Decay	Francis Fukuyama	40	10/30/2021
+43	Politics	Political Order and Political Decay	Francis Fukuyama	40	10/30/2021
+44	Comedy	Ernest Goes to Jail	Reider Grigorini	29.1	05/10/2020
+45	Comedy	Ernest Goes to Jail	Reider Grigorini	29.1	05/10/2020
+46	Comedy	Ernest Goes to Jail	Reider Grigorini	29.1	05/10/2020
+47	Comedy	Ernest Goes to Jail	Reider Grigorini	29.1	05/10/2020
+48	Comedy	Ernest Goes to Jail	Reider Grigorini	29.1	05/10/2020
+49	Crime	Fear Over the City	Jackelyn Slevin	41.5	05/12/2021
+50	Crime	Fear Over the City	Jackelyn Slevin	41.5	05/12/2021
